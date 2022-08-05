@@ -1,0 +1,14 @@
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.exe
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.deps.json
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.runtimeconfig.json
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.runtimeconfig.dev.json
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.dll
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\bin\Debug\netcoreapp3.1\Colpensiones.pdb
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.csproj.AssemblyReference.cache
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.AssemblyInfoInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.AssemblyInfo.cs
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.dll
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.pdb
+C:\Users\Desarrollo_Optecom\source\repos\Colpensiones\Colpensiones\obj\Debug\netcoreapp3.1\Colpensiones.genruntimeconfig.cache
